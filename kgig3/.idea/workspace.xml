@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="kgig3" targetName="kgig3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dadc3c3c-4d48-4068-b41e-a2d5cccb07c1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1b4fmPnYx1K6I0Bth3GkCE2jTkE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="kgig3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kgig3" TARGET_NAME="kgig3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kgig3" RUN_TARGET_NAME="kgig3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dadc3c3c-4d48-4068-b41e-a2d5cccb07c1" name="Default Changelist" comment="" />
+      <created>1587896444174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587896444174</updated>
+      <workItem from="1587896446196" duration="14112000" />
+      <workItem from="1587915164820" duration="9906000" />
+      <workItem from="1587974711232" duration="11820000" />
+      <workItem from="1588001304471" duration="17347000" />
+      <workItem from="1588089335456" duration="303000" />
+      <workItem from="1588495438974" duration="477000" />
+      <workItem from="1588496397710" duration="139000" />
+      <workItem from="1588496754356" duration="406000" />
+      <workItem from="1589629930346" duration="1072000" />
+      <workItem from="1589635215360" duration="1588000" />
+      <workItem from="1589784361020" duration="108000" />
+      <workItem from="1589974544691" duration="598000" />
+      <workItem from="1590412570506" duration="343000" />
+      <workItem from="1590418891918" duration="305000" />
+      <workItem from="1590818156015" duration="1788000" />
+      <workItem from="1590859652492" duration="135000" />
+      <workItem from="1590859805511" duration="267000" />
+      <workItem from="1591033888578" duration="470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

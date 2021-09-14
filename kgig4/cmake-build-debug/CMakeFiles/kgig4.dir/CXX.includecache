@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig4/main.cpp
+iostream
+-
+transfer.h
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig4/transfer.h
+cmath
+-
+string.h
+-
+
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig4/transfer.cpp
+transfer.h
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig4/transfer.h
+
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig4/transfer.h
+string
+-
+vector
+-
+algorithm
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig3/main.cpp
+iostream
+-
+algorithm
+-
+cstdlib
+-
+vector
+-
+cmath
+-
+string
+-
+

@@ -1,0 +1,3 @@
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arsenijkarpov/2семестр/Компьютернаягеометрия/kgig3/cmake-build-debug/CMakeFiles/kgig3.dir

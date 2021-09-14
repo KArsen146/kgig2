@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="kgig2" targetName="kgig2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86a77fa5-b479-4ca2-bd52-871d32782a09" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZvaoNbCwTygedbckI4Mu6EuPeo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C/C++" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="kgig2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$PROJECT_DIR$/cmake-build-debug/kgig2 $PROJECT_DIR$/input.pnm $PROJECT_DIR$/kgig2.pgm 255 0.5 10 10 100 50" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kgig2" TARGET_NAME="kgig2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kgig2" RUN_TARGET_NAME="kgig2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86a77fa5-b479-4ca2-bd52-871d32782a09" name="Default Changelist" comment="" />
+      <created>1585722195817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585722195817</updated>
+      <workItem from="1585722198950" duration="8861000" />
+      <workItem from="1585804353803" duration="553000" />
+      <workItem from="1585823413298" duration="9129000" />
+      <workItem from="1585853781048" duration="3560000" />
+      <workItem from="1585986779902" duration="1928000" />
+      <workItem from="1586087532374" duration="1918000" />
+      <workItem from="1586151544271" duration="332000" />
+      <workItem from="1587123198798" duration="36000" />
+      <workItem from="1587123239381" duration="190000" />
+      <workItem from="1587123462980" duration="3775000" />
+      <workItem from="1587128053844" duration="2959000" />
+      <workItem from="1587281381562" duration="1174000" />
+      <workItem from="1587285684350" duration="185000" />
+      <workItem from="1587286157919" duration="12226000" />
+      <workItem from="1587380368255" duration="2845000" />
+      <workItem from="1587728788751" duration="7000" />
+      <workItem from="1587884832164" duration="3640000" />
+      <workItem from="1587896810115" duration="1493000" />
+      <workItem from="1587915155543" duration="591000" />
+      <workItem from="1587974701306" duration="1265000" />
+      <workItem from="1588001304587" duration="19000" />
+      <workItem from="1590566122200" duration="17037000" />
+      <workItem from="1590643963932" duration="399000" />
+      <workItem from="1590677010429" duration="189000" />
+      <workItem from="1590681906120" duration="3304000" />
+      <workItem from="1590727900810" duration="160000" />
+      <workItem from="1590728324664" duration="77000" />
+      <workItem from="1590729412072" duration="164000" />
+      <workItem from="1590731763986" duration="970000" />
+      <workItem from="1590816630436" duration="652000" />
+      <workItem from="1590850553705" duration="1475000" />
+      <workItem from="1590903469999" duration="261000" />
+      <workItem from="1590923191092" duration="1404000" />
+      <workItem from="1590996573348" duration="12000" />
+      <workItem from="1591024905380" duration="1693000" />
+      <workItem from="1591028288284" duration="238000" />
+      <workItem from="1591029238670" duration="4839000" />
+      <workItem from="1591040521650" duration="2004000" />
+      <workItem from="1591043253315" duration="191000" />
+      <workItem from="1591249229056" duration="679000" />
+      <workItem from="1591363316326" duration="1063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
